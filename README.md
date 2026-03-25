@@ -2,7 +2,7 @@
 
 # Hi, I'm Usama Shabbir 👋
 
-### Final Year Computer Science Student
+### Software Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-shabbir-21a619370/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabbiru809@gmail.com)
 
